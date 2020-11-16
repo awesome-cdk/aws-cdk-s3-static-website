@@ -4,7 +4,7 @@ An example on how to deploy a static website (HTML, CSS, JS) into a private S3 b
 
 ### Getting started:
 1. Clone
-2. Put your website inside the ./dist folder
+2. Put your website inside the ./lib/dist folder
 3. `npx cdk deploy`
 4. Enjoy
 
