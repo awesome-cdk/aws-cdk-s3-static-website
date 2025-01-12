@@ -1,3 +1,5 @@
+_Note: This is based on the (now deprecated) AWS CDK v1. Some small adapting to v2 is needed. Open to contributions._
+
 # AWS CDK - Static website on S3 and CloudFront
 
 An example on how to deploy a static website (HTML, CSS, JS) into a private S3 bucket that is only accessible through a public CloudFront distribution.
